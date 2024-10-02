@@ -60,7 +60,7 @@ body {
         }
 
         .about {
-            background-color: #333;
+            background-color: #000;
             color: #fff;
             padding: 7px;
         }
@@ -68,6 +68,14 @@ body {
         .friends-list img {
             width: 50px;
             height: 50px;
+            margin: 5px;
+            border: 2px solid #555;
+        }
+
+        .movie-list img {
+            background-color: #333;
+            width: 160px;
+            height: 240px;
             margin: 5px;
             border: 2px solid #555;
         }
