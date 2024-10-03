@@ -1,6 +1,6 @@
-      @font-face { font-family: Typewriter; src: url('../1942.ttf'); } 
+      @font-face { font-family: Typewriter; src: url('1942.ttf'); } 
 body {
-            background-image: url("../background.png");
+            background-image: url("background.png");
             font-family: Typewriter, Arial, sans-serif;
             color: #ffffff;
             margin: 0;
