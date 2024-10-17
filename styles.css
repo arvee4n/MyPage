@@ -9,6 +9,10 @@ body {
             background-size: cover;
             background-position: center center;
         }
+        
+        .pear {
+            text-align:right;
+        }
 
         .container {
             width: 950px;
@@ -83,6 +87,11 @@ body {
 
         a {
             color: #c22c27;
+            text-decoration: none;
+        }
+        
+        a.black {
+            color: #000;
             text-decoration: none;
         }
 
