@@ -1,7 +1,11 @@
       @font-face { font-family: Typewriter; src: url('1942.ttf'); } 
 body {
             background-image: url("media/misc/background.png");
-            font-family: Typewriter, Arial, sans-serif;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center center;
+			font-family: Typewriter, Arial, sans-serif;
             color: #ffffff;
             margin: 0;
             padding: 0;
