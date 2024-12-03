@@ -19,6 +19,8 @@ Included:
 		Pictures of Friends
 		Pictures of Me
 		Pictures of My Dogs
+  ★ Wish List Page
+		List of Items
 
 Arven Page
 Link: https://arvee4n.github.io/arven/
